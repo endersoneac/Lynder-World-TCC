@@ -1,0 +1,11 @@
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\bin\Debug\SistemaFerreiro.exe
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\bin\Debug\SistemaFerreiro.pdb
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\bin\Debug\SistemaFerreiro.xml
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\SistemaFerreiro.Form1.resources
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\SistemaFerreiro.Resources.resources
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\SistemaFerreiro.exe
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\SistemaFerreiro.xml
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaFerreiro\SistemaFerreiro\obj\x86\Debug\SistemaFerreiro.pdb

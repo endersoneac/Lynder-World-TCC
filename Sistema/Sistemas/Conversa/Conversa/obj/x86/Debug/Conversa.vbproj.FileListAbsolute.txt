@@ -1,0 +1,14 @@
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\bin\Debug\Conversa.exe
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\bin\Debug\Conversa.pdb
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\bin\Debug\Conversa.xml
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\Conversa.Form1.resources
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\Conversa.Resources.resources
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\Conversa.exe
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\Conversa.xml
+C:\Users\aluno.INDUSTRIAL\Desktop\Conversa\Conversa\obj\x86\Debug\Conversa.pdb
+K:\Sistemas\Conversa\Conversa\obj\x86\Debug\Conversa.exe
+K:\Sistemas\Conversa\Conversa\obj\x86\Debug\Conversa.xml
+K:\Sistemas\Conversa\Conversa\obj\x86\Debug\Conversa.pdb

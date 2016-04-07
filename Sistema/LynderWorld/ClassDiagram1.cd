@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LynderWorld.ThemeContainer154" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>zh2gdXA4UkAF66NQg+3+AEEoqVkCinSgKCkgzRWLwJU=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ThemeControl154" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ihyAdXA4QAAFaaJAg+VyAAEIqUkCgjSgKCkgjAFLgIQ=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.PrecisionTimer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="LynderWorld.PrecisionTimer.TimerDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Controller\Aparencia\Ghost Theme.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAIAQAQAAAAAAAAEAAEICAAAAAAAAAAg=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LynderWorld.GhostTheme" Collapsed="true">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAIAgAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostButton" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIAgAAEAAAAAEAAAAAgAAAAgAAgBAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostProgressbar" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAAABIAgAAIAAAAAEAQAAAAAAAgAACAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostCheckbox" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAKAgAAAAAAAABAAAACAIAABAAAARAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostRadiobutton" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAKAgAAAAAAAABgAAACAIAABAAAAREA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostTabControl" Collapsed="true">
+    <Position X="14.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAIAAAAAAAAAACAEAAgAAAAAAAQA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostTabControlLagFree" Collapsed="true">
+    <Position X="14.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAwAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostListBoxPretty" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAACAIAwFAAAAAAgAAAAAAAABAAAAAEAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostListboxLessPretty" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostComboBox" Collapsed="true">
+    <Position X="18.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAIAAAAAAABAACAAAAABBAAAAAAAAIAAAAAQAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostGroupBox" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostTextBox" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEFAAAAAAAAAAIBwAAAEQAkAAiQAEAAAAA4CAACQAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GhostControlBox" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAAAIAgAAAAAACABAABAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Theme" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RACCIAAAAAABBAIAAwiQAgKEoBAIIhwCIAgAKECBwIA=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ThemeControl" Collapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAiQIAAIAQABAAIAAQBwAAIAgAAAIhQAIAAACEUKAIA=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ThemeContainerControl" Collapsed="true">
+    <Position X="17" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAiAIAAAAAABAAIAAQAwAAAAAAAAAAAAAAAACEUAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Thief3Theme" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAkQBAAAgAIAAAABAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Thief3TopButton" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAEAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Thief3Button" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAEAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Thief3Check" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAEAAAAAAAIAAAAAAAAAAAAAAAAAAAAAACAAIAQ=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Thief3ProgressBar" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAABIAAAAIAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Thief3 Theme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.MonstroController">
+    <Position X="25.5" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAABAAAAAAEAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Controller\Basicos\MonstroController.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.PersonagemController">
+    <Position X="30.75" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAkAAAAAAAARkABAAAAgAAAAQABAAAAAAA=</HashCode>
+      <FileName>Controller\Basicos\PersonagemController.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.QuestController">
+    <Position X="32.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Controller\Basicos\QuestController.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.UsuarioController">
+    <Position X="34.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAQA=</HashCode>
+      <FileName>Controller\Basicos\UsuarioController.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ControleBatalha">
+    <Position X="23.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAIAAAIAAAgAIAAAAAAAAAEAAAg=</HashCode>
+      <FileName>Controller\Sistemas\ControleBatalha.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ControleCidade">
+    <Position X="39.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Sistemas\ControleCidade.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ControleFerreiro">
+    <Position X="36" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAACA=</HashCode>
+      <FileName>Controller\Sistemas\ControleFerreiro.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ControleQuest">
+    <Position X="20.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAgE=</HashCode>
+      <FileName>Controller\Sistemas\ControleQuest.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.ControleVendas">
+    <Position X="32.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAkABAIIAAAAAAAEAAAAAAACQCAAAAAAAA=</HashCode>
+      <FileName>Controller\Sistemas\ControleVendas.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.GeraNPC">
+    <Position X="34.25" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAAAAAAAAAAAAAAIMAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Sistemas\GeraNPC.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.LoadingController">
+    <Position X="39.5" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Sistemas\LoadingController.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.CidadeModel">
+    <Position X="32.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIAgAgAAAgAAAAAgACAAEgAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\CidadeModel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.MonstroModel">
+    <Position X="41.25" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAFgIoAAAAEAAQAAAAAAAJAACAAAIAAAECQAAAAAgI=</HashCode>
+      <FileName>Model\MonstroModel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.NpcModel">
+    <Position X="37.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAAAAAAACEAAAAAAAAAQAgAAAAAA=</HashCode>
+      <FileName>Model\NpcModel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.PersonagemModel">
+    <Position X="20.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AwAHEIAAAQABACCAAIBEAQMAIWYIwAAACWAPQBQIICA=</HashCode>
+      <FileName>Model\PersonagemModel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.questModel">
+    <Position X="34.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIgAICABAICAAAACQEIAAACAAAAgAAAAABQAAAAEAA=</HashCode>
+      <FileName>Model\QuestModel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.UsuarioModel">
+    <Position X="27.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CQABAAAAAQIAAAAgAAAAIAABAAAAAAEAAAAAAgEAEAA=</HashCode>
+      <FileName>Model\UsuarioModel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.QuestDAO">
+    <Position X="34.25" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistent\Complementar\QuestDAO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.UsuarioDAO">
+    <Position X="36" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistent\Complementar\UsuarioDAO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.DAO">
+    <Position X="30.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>hCAAEMAAAAAAAgAABAAAAAAYAAAAAAAAQAAAAAAgAgA=</HashCode>
+      <FileName>Persistent\Fixos\DAO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.PersonagemDAO">
+    <Position X="37.75" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAACAAAAAAAAAAAAAIAAgAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistent\Fixos\PersonagemDAO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Mapa" Collapsed="true">
+    <Position X="17.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAAAAAACAAAACAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>View\Mapa.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Arena" Collapsed="true">
+    <Position X="16" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAECABAAAAAECAAAACAAAAAAAAAEAAAAAAgAA=</HashCode>
+      <FileName>View\Principais\Arena.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Login">
+    <Position X="25.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAMkAECCABAAAAACAAAADQJQAAAAAAEBAAAAQAQA=</HashCode>
+      <FileName>View\Principais\Login.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Personagem">
+    <Position X="23.75" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAGwlEhAkiAAAggiEACIkIQCCJIIgAQQBIRgBBDAAEQ=</HashCode>
+      <FileName>View\Principais\Personagem.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Principal">
+    <Position X="22" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAkACgCEmQAA4IEAACAQEoSBLQUhAAQAFRAoAhAIjQ=</HashCode>
+      <FileName>View\Principais\Principal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Bar">
+    <Position X="36" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAA4AkCABQAQAMKiJAAACCAEAAAABAEAAAABYoAg=</HashCode>
+      <FileName>View\Sistemas\Bar.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Batalha">
+    <Position X="41.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAwEqgQEjABgAIBgCDAgAgCIKKACIAYDEBCAAiYIhA=</HashCode>
+      <FileName>View\Sistemas\Batalha.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Conversa">
+    <Position X="39.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAIiABQABBIEiAEIACADAAQAgAAgAQAAAAAgA=</HashCode>
+      <FileName>View\Sistemas\Conversa.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Ferreiro">
+    <Position X="29" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>iAAgAAgBEjEAAoUAAgiBgAACABYAAAgAIFAEBAAQgAA=</HashCode>
+      <FileName>View\Sistemas\Ferreiro.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Hospital">
+    <Position X="29" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EEBgAAgIEyIgAAQEAgiJIAQCgFbvAhDAAFoFAAMagGA=</HashCode>
+      <FileName>View\Sistemas\Hospital.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.Loading">
+    <Position X="25.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAggAECAAIQAAAACAAAACAIAAAAAIAEAAAAAEARY=</HashCode>
+      <FileName>View\Sistemas\Loading.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.mensagemform">
+    <Position X="22" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAIgAACIIAAAASACAAAACAAAAAAADAAAAAAAQAAE=</HashCode>
+      <FileName>View\Sistemas\mensagemform.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.NovoPersonagem">
+    <Position X="37.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQEAgAECYIAIACAgCBAAACAABAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>View\Sistemas\NovoPersonagem.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.SelecaoMonstro">
+    <Position X="27.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAkAgogIFCAAFQTABAiRKACCCZQBAACEBkp1EgBIYDQ=</HashCode>
+      <FileName>View\Sistemas\SelecaoMonstro.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.My.MyApplication" Collapsed="true">
+    <Position X="17.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LynderWorld.My.MySettings" Collapsed="true">
+    <Position X="18" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="LynderWorld.Bloom" Collapsed="true">
+    <Position X="16.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAABAAAAAAIAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="LynderWorld.MouseState" Collapsed="true">
+    <Position X="17.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAIAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Module Name="LynderWorld.ThemeShare" Collapsed="true">
+    <Position X="17" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAEAAoAABAAQAAAAAAQAAAAAAAAAAAAAAEAQAE=</HashCode>
+      <FileName>Controller\Aparencia\Ghost Theme.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="LynderWorld.My.MySettingsProperty" Collapsed="true">
+    <Position X="16" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="LynderWorld.My.Resources.Resources" Collapsed="true">
+    <Position X="18" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACI4hCIAIAAAAAAgBEAAAAQAAAADCIIIAAgBAELY=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

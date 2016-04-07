@@ -1,0 +1,11 @@
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\bin\Debug\SistemaQuest.exe
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\bin\Debug\SistemaQuest.pdb
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\bin\Debug\SistemaQuest.xml
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\SistemaQuest.Form1.resources
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\SistemaQuest.Resources.resources
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\SistemaQuest.exe
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\SistemaQuest.xml
+C:\Users\aluno.INDUSTRIAL\Desktop\SistemaQuest\SistemaQuest\obj\x86\Debug\SistemaQuest.pdb

@@ -1,0 +1,14 @@
+J:\RepararArma\RepararArma\bin\Debug\RepararArma.exe
+J:\RepararArma\RepararArma\bin\Debug\RepararArma.pdb
+J:\RepararArma\RepararArma\bin\Debug\RepararArma.xml
+J:\RepararArma\RepararArma\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\RepararArma\RepararArma\obj\x86\Debug\RepararArma.Form1.resources
+J:\RepararArma\RepararArma\obj\x86\Debug\RepararArma.Resources.resources
+J:\RepararArma\RepararArma\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\RepararArma\RepararArma\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\RepararArma\RepararArma\obj\x86\Debug\RepararArma.exe
+J:\RepararArma\RepararArma\obj\x86\Debug\RepararArma.xml
+J:\RepararArma\RepararArma\obj\x86\Debug\RepararArma.pdb
+J:\Sistemas\RepararArma\RepararArma\obj\x86\Debug\RepararArma.exe
+J:\Sistemas\RepararArma\RepararArma\obj\x86\Debug\RepararArma.xml
+J:\Sistemas\RepararArma\RepararArma\obj\x86\Debug\RepararArma.pdb
